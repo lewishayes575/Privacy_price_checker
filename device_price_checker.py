@@ -1,12 +1,28 @@
+import os
 import requests
-from bs4 import BeautifulSoup
 import pandas as pd
+from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 import time
-import csv
+import subprocess
+from tabulate import tabulate
+
+# Function to install missing packages
+def install_missing_packages():
+    required_packages = ['requests', 'pandas', 'beautifulsoup4', 'tabulate']
+    for package in required_packages:
+        try:
+            __import__(package)
+        except ImportError:
+            print(f"Installing missing package: {package}")
+            subprocess.run(['pip', 'install', package])
+
+# Install dependencies if missing
+install_missing_packages()
 
 # File path for Windows
-file_path = r"C:\device_price_checker\Privacydevicelist.csv"
+github_directory = os.getcwd()
+file_path = os.path.join(github_directory, "Privacydevicelist.csv")
 
 # List of keywords to exclude from listings
 EXCLUDE_KEYWORDS = [
@@ -55,6 +71,11 @@ def get_ebay_listings(query):
     
     return listings
 
+# Ensure CSV file exists
+if not os.path.exists(file_path):
+    print(f"Error: {file_path} not found. Make sure you've cloned the repository correctly.")
+    exit()
+
 # Load the CSV file
 df = pd.read_csv(file_path)
 
@@ -100,14 +121,20 @@ for index, row in filtered_df.iterrows():
             'eBay Link': listing['eBay Link'],
             'OS Support': os_support
         })
-        
-        print(f"{device_name}: £{listing['Price (GBP)']} - {listing['eBay Link']}")
-        print(f"Supported OS: {os_support}\n")
     
     time.sleep(2)  # Avoid rate-limiting
 
+# Display results neatly in the terminal
+if results:
+    headers = ["Device", "Title", "Price (GBP)", "eBay Link", "OS Support"]
+    table_data = [[r['Device'], r['Title'], r['Price (GBP)'], r['eBay Link'], r['OS Support']] for r in results]
+    print("\nResults:\n")
+    print(tabulate(table_data, headers=headers, tablefmt="grid"))
+else:
+    print("No results found.")
+
 # Save results to a CSV file
-output_file = r"C:\device_price_checker\device_best_prices.csv"
+output_file = os.path.join(github_directory, "device_best_prices.csv")
 pd.DataFrame(results).to_csv(output_file, index=False)
 
-print(f"Results saved to {output_file}")
+print(f"\nResults saved to {output_file}")
