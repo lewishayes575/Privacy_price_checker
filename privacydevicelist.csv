@@ -1,0 +1,211 @@
+Make,Model,Year,GrapheneOS,CalyxOS,eOS,LineageOS
+10.or,G,2021,N,N,Y,Y
+ASUS,ROG Phone 3,2021,N,N,Y,Y
+ASUS,ZenFone 8,2021,N,N,Y,Y
+ASUS,Zenfone 5Z,2021,N,N,Y,Y
+Asus,ROG Phone 2,2021,N,N,Y,Y
+Asus,Zenfone 3,2021,N,N,Y,Y
+Asus,Zenfone 6,2021,N,N,Y,Y
+Asus,Zenfone Max Pro M1,2021,N,N,Y,Y
+Asus,Zenfone Max Pro M2,2021,N,N,Y,Y
+BQ,Aquaris U Plus,2021,N,N,Y,Y
+BQ,Aquaris V,2021,N,N,Y,N
+BQ,Aquaris V Plus,2021,N,N,Y,N
+BQ,Aquaris VS,2021,N,N,Y,N
+BQ,Aquaris VS Plus,2021,N,N,Y,N
+BQ,Aquaris X,2021,N,N,Y,Y
+BQ,Aquaris X Pro,2021,N,N,Y,Y
+BQ,Aquaris X5 Plus,2021,N,N,Y,Y
+Essential,Essential PH-1,2021,N,N,Y,Y
+F(x)tec,Pro¹,2021,N,N,Y,Y
+F(x)tec,Pro¹ X,2021,N,N,Y,Y
+Fairphone,Fairphone 2,2021,N,N,Y,Y
+Fairphone,Fairphone 3/3+,2021,N,N,Y,Y
+Fairphone,Fairphone 4,2021,N,Y,Y,Y
+Fairphone,Fairphone 5,2021,N,Y,N,N
+Gigaset,GS290,2021,N,N,Y,N
+Gigaset,GS290,2021,N,N,Y,N
+Google,Pixel 3,2018,N,Y,Y,Y
+Google,Pixel 3 XL,2018,N,Y,Y,Y
+Google,Pixel 4,2019,Y,Y,Y,Y
+Google,Pixel 4 XL,2019,Y,Y,Y,Y
+Google,Pixel 5,2020,Y,Y,Y,Y
+Google,Pixel 6,2021,Y,Y,Y,Y
+Google,Pixel 7,2022,Y,Y,Y,Y
+Google,Pixel 8,2023,Y,Y,N,N
+Google,Pixel 8,2023,Y,Y,N,N
+Google,Pixel 8,2023,Y,Y,N,N
+Google,Pixel 8 Pro,2023,Y,Y,N,N
+Google,Pixel 8 Pro,2023,Y,Y,N,N
+Google,Pixel 8a,2023,Y,Y,N,N
+Google,Pixel 8a,2023,Y,Y,N,N
+Google,Pixel 9,2024,Y,Y,N,N
+Google,Pixel 9,2024,Y,Y,N,N
+Google,Pixel 9 Pro,2024,Y,Y,N,N
+Google,Pixel 9 Pro,2024,Y,Y,N,N
+Google,Pixel 9 Pro Fold,2024,Y,Y,N,N
+Google,Pixel 9 Pro Fold,2024,Y,Y,N,N
+Google,Pixel 9 Pro XL,2024,Y,Y,N,N
+Google,Pixel 9 Pro XL,2024,Y,Y,N,N
+HTC,10,2021,N,N,Y,Y
+HTC,One A9,2021,N,N,Y,Y
+HTC,U11,2021,N,N,Y,Y
+LG,G2,2021,N,N,Y,Y
+LG,G3,2021,N,N,Y,Y
+LG,G4,2021,N,N,Y,Y
+LG,G5,2021,N,N,Y,Y
+LG,G6,2021,N,N,Y,Y
+Lenovo,Z5 Pro GT,2021,N,N,Y,N
+Lenovo,Z6 Pro,2021,N,N,Y,N
+Motorola,Defy (2021),2021,N,N,Y,Y
+Motorola,Edge,2021,N,N,Y,Y
+Motorola,Edge 20,2022,N,N,Y,Y
+Motorola,Edge 20 Pro,2022,N,N,Y,Y
+Motorola,Edge 30,2023,N,N,Y,Y
+Motorola,Moto E,2021,N,N,Y,Y
+Motorola,Moto E 2015,2021,N,N,Y,Y
+Motorola,Moto E 2015 LTE,2021,N,N,Y,Y
+Motorola,Moto E3,2021,N,N,Y,Y
+Motorola,Moto E4,2021,N,N,Y,Y
+Motorola,Moto E4 Plus,2021,N,N,Y,Y
+Motorola,Moto E5,2021,N,N,Y,Y
+Motorola,Moto E5 Play,2021,N,N,Y,Y
+Motorola,Moto E5 Plus,2021,N,N,Y,Y
+Motorola,Moto G 2014,2021,N,N,Y,Y
+Motorola,Moto G 2014 LTE,2021,N,N,Y,Y
+Motorola,Moto G 2015,2021,N,N,Y,Y
+Motorola,Moto G 2015 LTE,2021,N,N,Y,Y
+Motorola,Moto G 5G,2021,N,N,Y,Y
+Motorola,Moto G 5G Plus,2021,N,N,Y,Y
+Motorola,Moto G Fast,2021,N,N,Y,Y
+Motorola,Moto G Play,2021,N,N,Y,Y
+Motorola,Moto G Power,2021,N,N,Y,Y
+Motorola,Moto G Pro,2021,N,N,Y,Y
+Motorola,Moto G Stylus,2021,N,N,Y,Y
+Motorola,Moto G Stylus 2021,2021,N,N,Y,Y
+Motorola,Moto G5,2018,N,N,Y,Y
+Motorola,Moto G5 Plus,2018,N,N,Y,Y
+Motorola,Moto G5S,2018,N,N,Y,Y
+Motorola,Moto G5S Plus,2018,N,N,Y,Y
+Motorola,Moto G6,2019,N,N,Y,Y
+Motorola,Moto G6 Play,2019,N,N,Y,Y
+Motorola,Moto G6 Plus,2019,N,N,Y,Y
+Motorola,Moto G7,2020,N,N,Y,Y
+Motorola,Moto G7 Play,2020,N,N,Y,Y
+Motorola,Moto G7 Plus,2020,N,N,Y,Y
+Motorola,Moto G7 Power,2020,N,N,Y,Y
+Motorola,Moto G8,2021,N,N,Y,Y
+Motorola,Moto G8 Plus,2021,N,N,Y,Y
+Motorola,Moto G8 Power,2021,N,N,Y,Y
+Motorola,Moto G9,2022,N,N,Y,Y
+Motorola,Moto G9 Play,2022,N,N,Y,Y
+Motorola,Moto G9 Plus,2022,N,N,Y,Y
+Motorola,Moto G9 Power,2022,N,N,Y,Y
+Motorola,Moto One,2021,N,N,Y,Y
+Motorola,Moto One,2021,N,N,Y,Y
+Motorola,Moto One 5G Ace,2021,N,N,Y,Y
+Motorola,Moto One Action,2021,N,N,Y,Y
+Motorola,Moto One Fusion+,2021,N,N,Y,Y
+Motorola,Moto One Hyper,2021,N,N,Y,Y
+Motorola,Moto One Macro,2021,N,N,Y,Y
+Motorola,Moto One Power,2021,N,N,Y,Y
+Motorola,Moto One Vision,2021,N,N,Y,Y
+Nokia,6.1,2021,N,N,Y,Y
+Nokia,6.1 Plus,2021,N,N,Y,Y
+Nokia,7 Plus,2021,N,N,Y,Y
+Nokia,7.1,2021,N,N,Y,Y
+Nokia,8 Sirocco,2021,N,N,Y,Y
+Nubia,Red Magic 3,2021,N,N,Y,Y
+Nubia,Red Magic 3S,2021,N,N,Y,Y
+OnePlus,3,2021,N,N,Y,Y
+OnePlus,3T,2021,N,N,Y,Y
+OnePlus,5,2021,N,N,Y,Y
+OnePlus,5T,2021,N,N,Y,Y
+OnePlus,6,2021,N,N,Y,Y
+OnePlus,6T,2021,N,N,Y,Y
+OnePlus,7,2021,N,N,Y,Y
+OnePlus,7 Pro,2021,N,N,Y,Y
+OnePlus,7T,2021,N,N,Y,Y
+OnePlus,7T Pro,2021,N,N,Y,Y
+OnePlus,8,2021,N,N,Y,Y
+OnePlus,8 Pro,2021,N,N,Y,Y
+OnePlus,Nord,2021,N,N,Y,Y
+Razer,Phone,2021,N,N,Y,Y
+Razer,Phone 2,2021,N,N,Y,Y
+Realme,1,2021,N,N,Y,Y
+Realme,2 Pro,2021,N,N,Y,Y
+Realme,3 Pro,2021,N,N,Y,Y
+Realme,5 Pro,2021,N,N,Y,Y
+Realme,X,2021,N,N,Y,Y
+Realme,XT,2021,N,N,Y,Y
+SHIFT,SHIFT6m,2023,N,N,Y,Y
+Samsung,Galaxy A3 (2016),2021,N,N,Y,Y
+Samsung,Galaxy A3 (2017),2021,N,N,Y,Y
+Samsung,Galaxy A5 (2016),2021,N,N,Y,Y
+Samsung,Galaxy A5 (2017),2021,N,N,Y,Y
+Samsung,Galaxy A7 (2016),2021,N,N,Y,Y
+Samsung,Galaxy A7 (2017),2021,N,N,Y,Y
+Samsung,Galaxy A8 (2018),2021,N,N,Y,Y
+Samsung,Galaxy A8+ (2018),2021,N,N,Y,Y
+Samsung,Galaxy Note 3,2021,N,N,Y,Y
+Samsung,Galaxy Note 4,2021,N,N,Y,Y
+Samsung,Galaxy Note 8,2021,N,N,Y,Y
+Samsung,Galaxy S3 Neo,2021,N,N,Y,Y
+Samsung,Galaxy S4,2021,N,N,Y,Y
+Samsung,Galaxy S4 Mini,2021,N,N,Y,Y
+Samsung,Galaxy S5,2021,N,N,Y,Y
+Samsung,Galaxy S5 Mini,2021,N,N,Y,Y
+Samsung,Galaxy S6,2021,N,N,Y,Y
+Samsung,Galaxy S6 Edge,2021,N,N,Y,Y
+Samsung,Galaxy S7,2021,N,N,Y,Y
+Samsung,Galaxy S7 Edge,2021,N,N,Y,Y
+Samsung,Galaxy S8,2021,N,N,Y,Y
+Samsung,Galaxy S8+,2021,N,N,Y,Y
+Samsung,Galaxy S9,2021,N,N,Y,Y
+Samsung,Galaxy S9+,2021,N,N,Y,Y
+Sony,Xperia 1 II,,N,N,Y,N
+Sony,Xperia 1 III,,N,N,Y,N
+Sony,Xperia 1 V,,N,N,Y,N
+Sony,Xperia 10,,N,N,Y,N
+Sony,Xperia 10 Plus,,N,N,Y,N
+Sony,Xperia 5 II,,N,N,Y,N
+Sony,Xperia 5 III,,N,N,Y,N
+Sony,Xperia XA2,,N,N,Y,Y
+Sony,Xperia XA2 Plus,,N,N,Y,Y
+Sony,Xperia XA2 Ultra,,N,N,Y,Y
+Sony,Xperia XZ2,,N,N,Y,N
+Sony,Xperia XZ2 Compact,,N,N,Y,N
+Sony,Xperia XZ2 Premium,,N,N,Y,N
+Sony,Xperia XZ3,,N,N,Y,N
+Sony,Xperia Z2,,N,N,N,Y
+Sony,Xperia Z3,,N,N,N,Y
+Sony,Xperia Z3 Compact,,N,N,N,Y
+Sony,Xperia Z5,,N,N,N,Y
+Sony,Xperia Z5 Compact,,N,N,N,Y
+Xiaomi,Mi 8,,N,N,Y,Y
+Xiaomi,Mi 9,,N,N,Y,Y
+Xiaomi,Mi 9T,,N,N,Y,Y
+Xiaomi,Mi 9T Pro,,N,N,Y,Y
+Xiaomi,Mi 10,,N,N,Y,Y
+Xiaomi,Mi 10 Lite,,N,N,Y,Y
+Xiaomi,Mi 10 Pro,,N,N,Y,Y
+Xiaomi,Mi 10T,,N,N,Y,Y
+Xiaomi,Mi 10T Pro,,N,N,Y,Y
+Xiaomi,Mi 11,,N,N,Y,Y
+Xiaomi,Mi 11 Lite,,N,N,Y,Y
+Xiaomi,Mi 11 Pro,,N,N,Y,Y
+Xiaomi,Mi 11 Ultra,,N,N,Y,Y
+Xiaomi,Redmi Note 7,,N,N,Y,Y
+Xiaomi,Redmi Note 8,,N,N,Y,Y
+Xiaomi,Redmi Note 8 Pro,,N,N,Y,Y
+Xiaomi,Redmi Note 9,,N,N,Y,Y
+Xiaomi,Redmi Note 9 Pro,,N,N,Y,Y
+Xiaomi,Redmi Note 10,,N,N,Y,Y
+Xiaomi,Redmi Note 10 Pro,,N,N,Y,Y
+Xiaomi,Redmi Note 11,,N,N,Y,Y
+Xiaomi,Redmi Note 11 Pro,,N,N,Y,Y
+Xiaomi,Poco F1,,N,N,Y,Y
+Xiaomi,Poco F2 Pro,,N,N,Y,Y
+Xiaomi,Poco F3,,N,N,Y,Y
+Xiaomi,Poco X3,,N,N,Y,Y
+Xiaomi,Poco X3 NFC,,N,N,Y,Y
